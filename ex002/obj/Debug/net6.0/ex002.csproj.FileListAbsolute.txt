@@ -1,0 +1,15 @@
+/Users/2k/Desktop/Examlples/EX/ex002/bin/Debug/net6.0/ex002
+/Users/2k/Desktop/Examlples/EX/ex002/bin/Debug/net6.0/ex002.deps.json
+/Users/2k/Desktop/Examlples/EX/ex002/bin/Debug/net6.0/ex002.runtimeconfig.json
+/Users/2k/Desktop/Examlples/EX/ex002/bin/Debug/net6.0/ex002.dll
+/Users/2k/Desktop/Examlples/EX/ex002/bin/Debug/net6.0/ex002.pdb
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.dll
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/refint/ex002.dll
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.pdb
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ex002.genruntimeconfig.cache
+/Users/2k/Desktop/Examlples/EX/ex002/obj/Debug/net6.0/ref/ex002.dll
