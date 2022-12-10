@@ -11,9 +11,8 @@
 
 
 Console.WriteLine("Введите 5 - значное число : ");
-string usernamber = Console.ReadLine();
-int zzz = Convert.ToInt32(usernamber);
-int [] arrayuser = new int [zzz];
+int usernamber = Convert.ToInt32(Console.ReadLine());
+int [] arrayuser = new int [usernamber];
 int length = arrayuser.Length;
 
 int [] polyarray = new int[5];
@@ -25,3 +24,4 @@ for (int i = 0; i < length; i++)
     i++;
 }
 Console.WriteLine(polyarray);
+int age = Convert.ToInt32(Console.ReadLine());
