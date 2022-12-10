@@ -10,7 +10,7 @@ for (int i = 0; i < arrayuser.Length; i++)
 {
     for (int j = 0; j < polyarray.Length  ; j++)
     {
-        int temp = arrayuser.Length - j;
+        int temp = polyarray.Length - j;
         polyarray[temp] = arrayuser[i];
         Console.WriteLine(polyarray[temp]);
     }
