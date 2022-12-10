@@ -3,7 +3,6 @@ string userday = Console.ReadLine();
 int findday = Convert.ToInt32(userday);
 int [] week = {1,2,3,4,5};
 int days = week.Length;
-int index = 4;
 {
     if (findday <= days)
     {
