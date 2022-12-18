@@ -79,7 +79,6 @@ Console.WriteLine("привет  чувак  введи число");
 string inputNum = Console.ReadLine();
 int num = int.Parse(inputNum);
 double result = 0;
-
 for (int i = 1; i < num+1; i++)
 {
 
