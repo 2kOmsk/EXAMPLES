@@ -74,7 +74,6 @@ Console.WriteLine($" расстояние между точками = {str}");
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-
 Console.WriteLine("привет  чувак  введи число");
 string inputNum = Console.ReadLine();
 int num = int.Parse(inputNum);

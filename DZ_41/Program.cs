@@ -2,29 +2,17 @@
 string usernamber = Convert.ToString(Console.ReadLine()); // прочитали массив польз и конвертнули в ыекштп
 int [] arrayuser = usernamber.Split(' ').Select(usernamber => Convert.ToInt32(usernamber)).ToArray();
 
-void Printarray(int[] array)
-{
-    int count = array.Length;
-    for (int i =0; i < count; i++)
-    {
-        Console.WriteLine($"{array[i]}");
-    }
-    Console.WriteLine();
-
-}
-Printarray(arrayuser);
 void Findzerro(int [] array)
 {
+    int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        bool subzerro = true;
-        int xz;
-        for (int j = 0; j < array.Length; j++)
-        {  
-            xz = (array[j]);
-            if(xz == 0);
-            Console.WriteLine(array[j]);
+        int xz = array[i];
+        if(xz != 0)
+        {
+            count = count +1;
         }
     }
+    Console.WriteLine($" вы ввели {count} элементов отличных от 0 ");
 }
 Findzerro(arrayuser);
